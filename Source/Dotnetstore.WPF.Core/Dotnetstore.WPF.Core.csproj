@@ -9,10 +9,13 @@
 
 	<ItemGroup>
 		<Folder Include="Abstracts\" />
+		<Folder Include="Interfaces\" />
+		<Folder Include="IoC\" />
 	</ItemGroup>
 
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
 		<PackageReference Include="System.Reactive" Version="5.0.0" />
 	</ItemGroup>
 
