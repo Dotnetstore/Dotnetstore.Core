@@ -1,2 +1,2 @@
 # Dotnetstore.Core
- General functionality for WPF solutions
+ General functionality for MAUI solutions
